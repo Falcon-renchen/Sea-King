@@ -1,0 +1,12 @@
+a:hover{background-color:#37a;color:white;}
+a:link{color:#37a;}
+a:active{color:white}
+a {text-decoration:none}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+.h1{font-size:26px;font-weight:bolder;}
+.all{font-size:12px;background-color:#eee;height:36px;text-align:center;}
+.pingfen{font-size: 12px;}
+.riqi{color:#aaa;font-size: 13px;}
+.p1{color:#666666;font-size: 13px;}
+<span style="cursor:auto">body</span>

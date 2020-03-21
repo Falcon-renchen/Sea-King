@@ -1,0 +1,9 @@
+a:hover{background-color:#37a;color:white}
+a:link{color:#37a}
+a:active{color:white}
+a {text-decoration:none}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+.youyong{font-size: 12px;color: #3377aa;font-weight: 400;line-height: 12px;background-color:#37a;width:50px;height:15px;line-height: 12px;height:12px}
+.meiyong{font-size: 12px;color: #37a;font-weight: 400;line-height: 12px;background-color:#37a;width:50px;height:15px;line-height: 12px;height:12px}
+<span style="cursor:auto">body</span>

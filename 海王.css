@@ -1,0 +1,20 @@
+
+a:hover{color:#ffffff;background-color:#37a;}
+a:link{color:#37a;}
+a:active{color:white;}
+a {text-decoration:none;color:#37a}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+.img{background-repeat:no-repeat;}
+.h1{font-weight:bolder;font-size:26px;line-height:1.1;}
+.wantlook{background-image:url("https://img3.doubanio.com/f/shire/18e38327efbf8ae659e972e34ece128a73f469f3/pics/collect_back2.png");background-repeat: no-repeat;padding-left:11px;width:42px;height:24px;text-decoration: none;font-size:12px;line-height: 22px;letter-spacing:3px}
+.looked{background-image: url("https://img3.doubanio.com/f/shire/18e38327efbf8ae659e972e34ece128a73f469f3/pics/collect_back2.png");background-repeat: no-repeat;font-size:12px;line-height: 22px;letter-spacing:3px;width:42px;height:24px;padding-left:11px}
+.last{margin-left:430px}
+.last1{margin-left:420px}
+.font{font-size:20px;color:#007722}
+.daoyan{font-size:13px;}
+.p1{line-height: 21.06px;font-size:3px}
+.pingfen{font-size:28px}
+.guankanrenshu{font-size:12px}
+.xingji{color:#9b9b9b;font-size: 12px;line-height: 14px;}
+<span style="cursor:auto">body</span>

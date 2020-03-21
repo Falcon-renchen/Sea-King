@@ -1,0 +1,10 @@
+a:hover{color:#fff;background-color:#37a;}
+a:link{color:#37a;}
+a:active{color:white;}
+a {text-decoration:none;color:#37a}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+.h1{font-size: 16px;color: #007722;font-weight: 400;}
+.lianjie{font-weight: 400;font-size: 16px;}
+.h3{color: #999999;font-size: 13px;font-weight: 400;}
+<span style="cursor:auto">body</span>

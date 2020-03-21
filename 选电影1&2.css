@@ -1,0 +1,10 @@
+a:hover{background-color:#37a;color:white;}
+a:link{color:#37a;}
+a:active{color:white}
+a {text-decoration:none}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+.yanse{color:#37a}
+.more{background-color:#eee;width:1000px;margin-left:430px}
+.hr {margin-left:445px}
+<span style="cursor:auto">body</span>

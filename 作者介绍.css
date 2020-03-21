@@ -1,0 +1,11 @@
+a:hover{background-color:#37a;color:white}
+a:link{color:#37a}
+a:active{color:white}
+#menu{margin-bottom:35px;background-color:#B2DFEE;height:35px;margin-top:10px;font-size:20px;line-height:35px;}
+ul li{list-style:none;float:left;width:190px;font-weight: 400;text-align:center;}
+a {text-decoration:none}
+.yanse{background-color:#E5E5E5}
+.font{font-size: 22px;font-weight: 500;}
+.h2{font-size: 18px;font-weight: 500;}
+.h3{font-size: 15px;}
+<span style="cursor:auto">body</span>
